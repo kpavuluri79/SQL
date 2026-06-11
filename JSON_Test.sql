@@ -117,5 +117,5 @@ ORDER BY [Storage Type], OrderID;
 -- =====================================================================
 -- CLEANUP Finally Tested successfully and to drop tables created
 -- =====================================================================
-DROP TABLE dbo.Orders_NVARCHAR;
+--DROP TABLE dbo.Orders_NVARCHAR;
 DROP TABLE dbo.Orders_JSON;

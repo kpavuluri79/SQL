@@ -115,7 +115,7 @@ ORDER BY [Storage Type], OrderID;
 
 
 -- =====================================================================
--- CLEANUP Finally Testes successfully
+-- CLEANUP Finally Tested successfully and to drop tables
 -- =====================================================================
 DROP TABLE dbo.Orders_NVARCHAR;
 DROP TABLE dbo.Orders_JSON;
